@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Continue Shopping button functionality
 
   Scenario: Continue Shopping from empty cart returns to inventory

@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Login functionality
 
   Scenario: Successful login with standard user

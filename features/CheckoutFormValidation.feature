@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Checkout form field validation
 
   Background:

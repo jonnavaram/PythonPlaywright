@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Verify Users login
 
 Background: 

@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Add product to cart
 

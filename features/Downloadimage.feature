@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Download the product image
 
   Scenario: Download the product image

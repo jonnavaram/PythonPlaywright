@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Cart navigation and state management
 

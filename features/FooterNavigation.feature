@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Footer navigation links
 
   Background:

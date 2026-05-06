@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Remove product from cart
 
   Scenario: Remove product from cart

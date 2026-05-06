@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Cancel the order at checkout state
 
   Scenario: Cancel the order at checkout state

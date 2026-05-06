@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Unable to place the order from Error user
 

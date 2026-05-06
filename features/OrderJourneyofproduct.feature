@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Order journey of Product
 

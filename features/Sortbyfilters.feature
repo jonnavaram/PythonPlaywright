@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Verify the filters is working or not
 Background: 

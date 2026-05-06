@@ -1,4 +1,4 @@
-@tested
+@regressive
 Feature: Empty cart checkout prevention
 
 Background:

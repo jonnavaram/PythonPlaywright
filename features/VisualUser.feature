@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Visual user login and inventory verification
 

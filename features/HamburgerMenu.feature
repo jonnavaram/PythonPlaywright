@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Hamburger menu navigation and functionality
 

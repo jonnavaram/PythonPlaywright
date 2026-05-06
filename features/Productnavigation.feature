@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Verify the product is correctly navigate to detail page
 

@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Checkout step two - order summary
 

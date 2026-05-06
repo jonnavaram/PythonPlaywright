@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Customer information at checkout flow
 

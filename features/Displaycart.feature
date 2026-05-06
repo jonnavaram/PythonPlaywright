@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Verify cart shows the correct price
 

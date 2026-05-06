@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Login with problem user and verify
 

@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Place multiple orders 
 

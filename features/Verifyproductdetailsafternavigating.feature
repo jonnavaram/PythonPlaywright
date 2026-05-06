@@ -1,4 +1,4 @@
-@tested
+@regressive
 
 Feature: Product detail page verification
 
